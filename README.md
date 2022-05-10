@@ -1,0 +1,2 @@
+# calculadora
+exercicio etec
